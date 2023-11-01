@@ -1,5 +1,8 @@
 # Prognosis_Ai_Project
 Prognosis AI is an innovative web application designed for predicting three major health conditions: Heart Disease, Parkinson's Disease, and Diabetes. Leveraging the power of machine learning, this project empowers users to assess their risk of these diseases by inputting relevant medical parameters.
+
+**App URL :** https://prognosisai.streamlit.app/
+
 # Key Features:
 **Diabetes Prediction:** Leveraging Logistic Regression, Prognosis AI predicts the risk of diabetes by analyzing relevant health metrics.
 
