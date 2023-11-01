@@ -11,3 +11,9 @@ Prognosis AI is an innovative web application designed for predicting three majo
 **Empowering Health Decisions:** By offering quick and reliable disease risk assessments, this application allows individuals to take proactive steps towards improving their health.
 
 **Open Source:** The project is open-source, making it accessible for researchers and developers to contribute and enhance its capabilities.
+
+# How to Use:
+Simply input the required medical parameters, and Prognosis AI will provide you with an accurate risk assessment for the selected disease.
+
+# Contributing: 
+We welcome contributions from the open-source community to improve the accuracy and expand the capabilities of Prognosis AI. Please feel free to submit issues, feature requests, and pull requests.
